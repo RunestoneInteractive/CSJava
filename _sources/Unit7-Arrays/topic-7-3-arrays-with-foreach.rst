@@ -93,7 +93,7 @@ Use the enhanced for each loop with arrays whenever you can, because it cuts dow
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -156,7 +156,7 @@ Use the enhanced for each loop with arrays whenever you can, because it cuts dow
    // Test for Lesson 6.3.2 - EvenLoop
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -225,7 +225,7 @@ What if we had a loop that incremented all the elements in the array. Would that
    // Test for Lesson 6.3.3 - IncrementLoop
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -365,7 +365,7 @@ Here is an object-oriented example that has the array as a private instance vari
    // Test for Lesson 6.3.3 - IncrementLoop
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -508,7 +508,7 @@ If you did the optional printStartsWith(firstLetters) method, re-write that one 
    // Test for Lesson 6.2.5 - challenge-6-2-spell-checker
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

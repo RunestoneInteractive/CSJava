@@ -109,7 +109,7 @@ Since there is only 1 copy of a static variable or method, static variables are 
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -219,7 +219,7 @@ You can see this code in action in the |visualizer2|.
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

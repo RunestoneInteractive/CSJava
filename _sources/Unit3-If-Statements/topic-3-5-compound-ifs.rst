@@ -71,7 +71,7 @@ two Boolean expressions and the body of the condition will only be executed  if 
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -122,7 +122,7 @@ What if it is okay if only one of two things is true? Use ``||`` as a logical **
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -204,7 +204,7 @@ often the opposite of what you think. We'll see examples of this in the next les
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -502,7 +502,7 @@ Explore the following problems:
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

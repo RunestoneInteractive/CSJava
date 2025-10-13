@@ -133,7 +133,7 @@ To actually create an array after declaring the variable, use the **new** keywor
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -229,7 +229,7 @@ Arrays know their length (how many elements they can store).  It is a public rea
    ====
    // Test for Lesson 6.1.2 - While Loop FindAndReplace lclw1
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -420,7 +420,7 @@ If you want to keep track of the top 5 highest scores in a game and the names of
    // Test for Lesson 6.1.2 - While Loop FindAndReplace lclw1
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -557,7 +557,7 @@ In this challenge, you will create a guide to different countries using arrays.
      ====
      // Test for Lesson 6.1 - challenge
      import static org.junit.Assert.*;
-     import org.junit.*;;
+     import org.junit.*;
      import java.io.*;
 
      public class RunestoneTests extends CodeTestHelper

@@ -84,7 +84,7 @@ Try the code below. Did it print what you expected?  When you print a two dimens
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -228,7 +228,7 @@ To get the value in a 2D array give the name of the array followed by the row an
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -345,7 +345,7 @@ We can represent ASCII art in a 2D array of rows and columns. What do you think 
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

@@ -499,7 +499,7 @@ Here are some rules to follow to avoid common errors:
    }
    ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

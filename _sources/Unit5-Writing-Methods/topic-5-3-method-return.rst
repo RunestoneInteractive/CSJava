@@ -164,7 +164,7 @@ Click on each tab to observe the data flowing into the method through the formal
 
   ====
   import static org.junit.Assert.*;
-  import org.junit.*;;
+  import org.junit.*;
   import java.io.*;
 
   public class RunestoneTests extends CodeTestHelper
@@ -327,7 +327,7 @@ Click on each tab to observe the data flowing into the method through the formal
 
   ====
   import static org.junit.Assert.*;
-  import org.junit.*;;
+  import org.junit.*;
   import java.io.*;
 
   public class RunestoneTests extends CodeTestHelper
@@ -393,7 +393,7 @@ Click on each tab to observe the data flowing into the method through the formal
 
   ====
   import static org.junit.Assert.*;
-  import org.junit.*;;
+  import org.junit.*;
   import java.io.*;
 
   public class RunestoneTests extends CodeTestHelper

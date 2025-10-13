@@ -128,7 +128,7 @@ Since you can find out the number of rows and columns in a 2D array you can use 
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -236,7 +236,7 @@ Most nested loops with 2D Arrays use "row-major order" where the outer loop goes
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

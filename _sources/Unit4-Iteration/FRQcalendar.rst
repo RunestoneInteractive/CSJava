@@ -198,7 +198,7 @@ Put all of the code together to solve this problem.
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -327,7 +327,7 @@ Try the mod operator below.
    }  
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -415,7 +415,7 @@ Complete the code for the method dayOfWeek below for Part B of this FRQ.
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

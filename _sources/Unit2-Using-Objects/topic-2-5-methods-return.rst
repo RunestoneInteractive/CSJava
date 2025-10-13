@@ -118,7 +118,7 @@ from each getter method is either stored in a variable or used in a print statem
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -159,7 +159,7 @@ from each getter method is either stored in a variable or used in a print statem
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -217,7 +217,7 @@ Another common method that returns a value is the **toString()** method. This me
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -314,7 +314,7 @@ call the getDistance on yertle passing in mertle's x and y values.  Keep in mind
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

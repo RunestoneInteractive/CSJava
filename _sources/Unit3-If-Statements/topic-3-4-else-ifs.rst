@@ -76,7 +76,7 @@ Using if/else statements, you can even pick between 3 or more possibilites. Just
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -292,7 +292,7 @@ Here is a flowchart for a conditional with 3 options like in the code above.
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

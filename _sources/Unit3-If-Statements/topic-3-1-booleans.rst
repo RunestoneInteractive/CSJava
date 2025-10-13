@@ -340,7 +340,7 @@ The following program checks if 5 is a prime number by seeing if it is divisible
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

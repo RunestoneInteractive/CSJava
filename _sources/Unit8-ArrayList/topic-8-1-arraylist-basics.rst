@@ -146,7 +146,7 @@ To declare a ArrayList use ``ArrayList<Type> name``  Change the *Type* to be wha
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -275,7 +275,7 @@ You can add values to an ArrayList by using its **add** method, described in det
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -329,7 +329,7 @@ First, let's discuss how to break up a number into its digits. Try the code belo
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -398,7 +398,7 @@ Now, let's write a constructor for the Digits class that uses this loop and adds
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

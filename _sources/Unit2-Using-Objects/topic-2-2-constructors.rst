@@ -271,7 +271,7 @@ The second constructor places the turtle at a certain (x,y) location in the worl
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -356,7 +356,7 @@ You assign an object variable by calling a constructor on the right hand side of
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

@@ -59,7 +59,7 @@ You can declare a variable to be of type ``String``.
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -130,7 +130,7 @@ In both cases an object of the ``String`` class will be created in memory and th
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -165,7 +165,7 @@ In both cases an object of the ``String`` class will be created in memory and th
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -231,7 +231,7 @@ Strings can be **appended** to each other to create a new string using the ``+``
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -311,7 +311,7 @@ You can even add other items to a string using the ``+`` operator.  The other it
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -351,7 +351,7 @@ What if you wanted to print out a double quote " character? Since the double quo
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -416,7 +416,7 @@ If you create this program in a Java IDE,  you can use input to read in the word
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

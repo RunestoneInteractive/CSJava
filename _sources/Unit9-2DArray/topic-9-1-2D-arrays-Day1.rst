@@ -225,7 +225,7 @@ The code below creates a 2D array with 2 rows and 3 columns named ``ticketInfo``
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

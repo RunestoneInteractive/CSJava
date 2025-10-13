@@ -118,7 +118,7 @@ The loop condition usually involves a **loop control variable** that controls wh
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -288,7 +288,7 @@ Another common error with loops is an **off-by-one error** where the loop runs o
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

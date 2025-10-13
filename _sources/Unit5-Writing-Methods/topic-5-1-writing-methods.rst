@@ -177,7 +177,7 @@ The main method can call the chorus method multiple times to repeat the two line
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -520,7 +520,7 @@ Click on each tab to observe the flow of control for the ``GreetingExample`` cla
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

@@ -111,7 +111,7 @@ Run the code below to see how it constructs 2 Person objects and fills in their 
   ====
   // Test for Lesson 5.1.0 - Person class - should pass if/when they run code
   import static org.junit.Assert.*;
-  import org.junit.*;;
+  import org.junit.*;
   import java.io.*;
 
   public class RunestoneTests extends CodeTestHelper

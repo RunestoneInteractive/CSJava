@@ -109,7 +109,7 @@ You can add values to an ArrayList by using the method ``add(obj)`` which will a
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -460,7 +460,7 @@ Notice that ArrayLists use set/get methods instead of using the square brackets 
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

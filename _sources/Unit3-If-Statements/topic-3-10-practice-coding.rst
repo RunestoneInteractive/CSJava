@@ -30,7 +30,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -90,7 +90,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -127,7 +127,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -190,7 +190,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -250,7 +250,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -310,7 +310,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -388,7 +388,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -468,7 +468,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -544,7 +544,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -620,7 +620,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -718,7 +718,7 @@ Coding Practice
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper

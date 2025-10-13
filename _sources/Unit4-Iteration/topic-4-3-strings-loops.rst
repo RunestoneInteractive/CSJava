@@ -164,7 +164,7 @@ The following code loops through a string replacing all 1's with l's.  Trace thr
    ====
    // Test for Lesson 4.3.1 - While Loop FindAndReplace lclw1
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -283,7 +283,7 @@ Here is a for-loop that creates a new string that reverses the string s.  We sta
     ====
     // Test for Lesson 4.3 - ReverseString
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

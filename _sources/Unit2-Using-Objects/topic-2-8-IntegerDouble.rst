@@ -66,7 +66,7 @@ These wrapper classes (defined in the java.lang package) are also useful because
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     public class RunestoneTests extends CodeTestHelper
     {
@@ -144,7 +144,7 @@ Here are some more useful methods in the Integer and  Double classes:
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -186,7 +186,7 @@ Can you find and fix all the bugs in the following code to use the correct Integ
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

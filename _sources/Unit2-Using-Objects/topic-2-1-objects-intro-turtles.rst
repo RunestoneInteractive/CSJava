@@ -97,7 +97,7 @@ Today, we can play with virtual turtles in a graphical world. Below is a sample 
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -209,7 +209,7 @@ instead of 100. You would do this using the code ``yertle.forward(50);``.
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -460,7 +460,7 @@ copy in your code, and save it in your own repl.it account.  Keep in mind Repl.i
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

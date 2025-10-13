@@ -98,7 +98,7 @@ The most common shortcut operator ``++``, the plus-plus or **increment** operato
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

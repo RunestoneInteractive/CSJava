@@ -70,7 +70,7 @@ What does the following code print out? Watch the code run in the  |Java visuali
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -227,7 +227,7 @@ Try a nested loop with turtles! If the code below does not work in your browser,
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -335,7 +335,7 @@ In the last exercise, you used nested for-loops to have the turtle draw a square
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

@@ -53,7 +53,7 @@ The casting operators (int) and (double) are used right next to a number or vari
    }
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -104,7 +104,7 @@ For example, if you divide 5/3 using integer division, Java will truncate 1.67 t
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -145,7 +145,7 @@ For example, int values are stored in 4 bytes of memory. There is an Integer.MAX
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

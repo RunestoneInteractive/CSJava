@@ -109,7 +109,7 @@ Run the code below to see the output from the String methods ``length``, ``subst
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -269,7 +269,7 @@ Run the example below to see the output from ``compareTo`` and ``equals``. Since
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -429,7 +429,7 @@ The following code shows some common mistakes with strings.
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

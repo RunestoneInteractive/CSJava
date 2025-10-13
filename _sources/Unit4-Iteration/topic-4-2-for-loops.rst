@@ -87,7 +87,7 @@ You can compare a ``while`` loop to a ``for`` loop to understand that a ``for`` 
    
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -385,7 +385,7 @@ The method **printPopSong** prints the words to a song.  It initializes the valu
    
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -447,7 +447,7 @@ Do you remember when we used the turtle objects to draw shapes? To create a squa
     
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -539,7 +539,7 @@ In the last exercise, you used a for-loop to have the turtle draw a square. Use 
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

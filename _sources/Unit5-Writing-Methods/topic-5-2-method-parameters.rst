@@ -118,7 +118,7 @@ contains not only the current line but also the formal parameter variables and v
   }
   ====
   import static org.junit.Assert.*;
-  import org.junit.*;;
+  import org.junit.*;
   import java.io.*;
 
   public class RunestoneTests extends CodeTestHelper
@@ -255,7 +255,7 @@ When the **calculatePay** method is called, actual values must be provided for e
   }
   ====
   import static org.junit.Assert.*;
-  import org.junit.*;;
+  import org.junit.*;
   import java.io.*;
 
   public class RunestoneTests extends CodeTestHelper
@@ -854,7 +854,7 @@ compute and print the cost based on item weight.
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

@@ -69,7 +69,7 @@ When the operator ``==`` is used to compare object variables, it returns true wh
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -129,7 +129,7 @@ The one common place to use == or != with objects is to compare them to **null**
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -169,7 +169,7 @@ If you use the ``new`` keyword to create a string, it will always create a new s
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

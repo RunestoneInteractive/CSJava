@@ -86,7 +86,7 @@ What does the code above print out? You can follow the code in this |visualizer|
    // Test for Lesson 6.2
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -165,7 +165,7 @@ For example, here is a loop traversing the highScores array to print every score
    // Test for Lesson 6.2
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -250,7 +250,7 @@ The following code demonstrates a loop that changes the values in an array. In t
    // Test for Lesson 6.2
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -360,7 +360,7 @@ You don't have to loop through an array from the front to the back.  You can loo
    // Test for Lesson 6.2.3 - ArrayFindSmallest
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -525,7 +525,7 @@ You don't have to loop through all of the elements of an array.  You can loop th
    // Test for Lesson 6.2.4 - ArrayWorker
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -930,7 +930,7 @@ The following Active Code uses a dictionary array of the most common 100 English
    // Test for Lesson 6.2.5 - challenge-6-2-spell-checker
 
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

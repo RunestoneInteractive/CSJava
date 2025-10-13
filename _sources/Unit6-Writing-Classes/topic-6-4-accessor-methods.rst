@@ -155,7 +155,7 @@ Try the following code. Note that this active code window has 2 classes! The mai
   ====
 
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -234,7 +234,7 @@ Here is the Student class again, but this time with a toString() method. Note th
   }
   ====
   import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

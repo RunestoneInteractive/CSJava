@@ -850,7 +850,7 @@ The process relies on integer division to determine slices per person, and the m
 
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -1107,7 +1107,7 @@ with the last line of code that prints the sum.
     }
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -1192,7 +1192,7 @@ how old they are in dog years which is 7 times a human year.  Finally, print it 
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     public class RunestoneTests extends CodeTestHelper
     {

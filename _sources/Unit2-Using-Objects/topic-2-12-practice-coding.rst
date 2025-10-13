@@ -27,7 +27,7 @@ The coding problems below are mostly about Strings, but more problems on other t
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
 
                 public class RunestoneTests extends CodeTestHelper
@@ -97,7 +97,7 @@ The coding problems below are mostly about Strings, but more problems on other t
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -166,7 +166,7 @@ The coding problems below are mostly about Strings, but more problems on other t
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -234,7 +234,7 @@ The coding problems below are mostly about Strings, but more problems on other t
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper
@@ -305,7 +305,7 @@ The coding problems below are mostly about Strings, but more problems on other t
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                
                 public class RunestoneTests extends CodeTestHelper
@@ -376,7 +376,7 @@ The coding problems below are mostly about Strings, but more problems on other t
               }
               ====
               import static org.junit.Assert.*;
-                import org.junit.*;;
+                import org.junit.*;
                 import java.io.*;
                 
                 public class RunestoneTests extends CodeTestHelper

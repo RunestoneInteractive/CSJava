@@ -136,7 +136,7 @@ Try to break the preconditions of the Turtle constructor below. Does the Turtle 
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -309,7 +309,7 @@ Here is a simple class called User that could be used in an online store. Add go
     ====
     // Test for 5.3.5 Comments
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     import java.nio.file.Files;

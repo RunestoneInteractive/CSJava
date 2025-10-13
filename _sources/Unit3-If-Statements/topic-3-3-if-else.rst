@@ -156,7 +156,7 @@ If/else statements can also be used with relational operators and numbers like b
    } 
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -205,7 +205,7 @@ Notice the second condition is simply the negation of the first condition.
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -279,7 +279,7 @@ Notice the second condition is simply the negation of the first condition.
    } 
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -346,7 +346,7 @@ If statements can be nested inside other if statements. Sometimes with nested if
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

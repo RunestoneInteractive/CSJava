@@ -128,7 +128,7 @@ Often, you can simplify boolean expressions to create equivalent expressions. Fo
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -231,7 +231,7 @@ Explore the following problems. You may use |this worksheet| to complete your tr
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper

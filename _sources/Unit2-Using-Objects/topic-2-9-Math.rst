@@ -56,7 +56,7 @@ The ``Math.random()`` method returns a number greater than or equal to 0.0, and 
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     
     public class RunestoneTests extends CodeTestHelper
@@ -96,7 +96,7 @@ You can use ``Math.random`` and a cast to integer to return a random integer bet
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper
@@ -269,7 +269,7 @@ Now what about the combination lock for this challenge? It has 3 dials with 0-40
    }
    ====
    import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
     import java.util.ArrayList;
 
@@ -406,7 +406,7 @@ This idea was suggested by Zac Martin's class.
     }
     ====
     import static org.junit.Assert.*;
-    import org.junit.*;;
+    import org.junit.*;
     import java.io.*;
 
     public class RunestoneTests extends CodeTestHelper

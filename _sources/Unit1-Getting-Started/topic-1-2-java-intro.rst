@@ -119,7 +119,7 @@ click on ``Load History`` button and move the bar above it to see your previous 
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -163,7 +163,7 @@ and the name of the class must match the file name.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -225,7 +225,7 @@ Java has two different print commands to print output to the screen:
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -329,7 +329,7 @@ expressions that have a numeric value.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -366,7 +366,7 @@ expressions that have a numeric value.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -403,7 +403,7 @@ expressions that have a numeric value.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -452,7 +452,7 @@ expressions that have a numeric value.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -607,7 +607,7 @@ causing the error (``Error1.java:5: error: unclosed string literal``).  Check li
            
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -649,7 +649,7 @@ One good thing to check is that all ``{`` have a matching ``}`` and all ``(`` ha
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -691,7 +691,7 @@ encounter a 2nd error! Fix that one too!
    // should pass if/when they run code
    // This doesn't really work because it filters out the \n
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -735,7 +735,7 @@ Did you remember that System is capitalized in System.out.println? Did you find 
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper

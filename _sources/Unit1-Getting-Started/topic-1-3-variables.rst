@@ -279,7 +279,7 @@ the memory location called score to 4.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -481,7 +481,7 @@ then the code ``"Hi " + name`` will create a new String object with value ``"Hi 
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -535,7 +535,7 @@ like "HiJose" instead of "Hi Jose".
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -585,7 +585,7 @@ called **assignment dyslexia**.
    ====
    // should pass if/when they run code
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
@@ -657,7 +657,7 @@ The convention in Java and many programming languages is to always start a varia
    
    ====
    import static org.junit.Assert.*;
-   import org.junit.*;;
+   import org.junit.*;
    import java.io.*;
 
    public class RunestoneTests extends CodeTestHelper
