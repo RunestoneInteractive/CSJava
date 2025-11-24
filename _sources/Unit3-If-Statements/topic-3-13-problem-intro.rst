@@ -116,8 +116,8 @@ Finish writing the code for the following problem.
     :autograde: unittest
     :language:java
 
-    Write a function that takes a number ``num`` and returns the number times 2. For example, ``double(2)`` should return 4 and
-    ``double(-1)`` should return -2.  Look below the code to check for any compiler errors or the results from the test cases.  Be sure to ``return`` the result.
+    Write a function that takes a number ``num`` and returns the number times 2. For example, ``doubleNum(2)`` should return 4 and
+    ``doubleNum(-1)`` should return -2.  Look below the code to check for any compiler errors or the results from the test cases.  Be sure to ``return`` the result.
     ~~~~
     public class Main {
 
@@ -129,9 +129,9 @@ Finish writing the code for the following problem.
 
         public static void main(String[] args)
         {
-            System.out.println(tripleNum(3));
-            System.out.println(tripleNum(-4));
-            System.out.println(tripleNum(0));
+            System.out.println(doubleNum(3));
+            System.out.println(doubleNum(-4));
+            System.out.println(doubleNum(0));
         }
     }
     ====
