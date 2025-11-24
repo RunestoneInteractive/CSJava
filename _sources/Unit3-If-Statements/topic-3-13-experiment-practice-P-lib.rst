@@ -185,8 +185,8 @@ Practice Problems (Mixed Code)
     :adaptive:
     :practice: T
 
-    Write a function that takes a number ``num`` and returns the number times 3. For example, ``triple(2)`` should return 6 and
-    ``triple(-1)`` should return -3.  Look below the code to check for any compiler errors or the results from the test cases.  Be sure to ``return`` the result.
+    Write a function that takes a number ``num`` and returns the number times 3. For example, ``tripleNum(2)`` should return 6 and
+    ``tripleNum(-1)`` should return -3.  Look below the code to check for any compiler errors or the results from the test cases.  Be sure to ``return`` the result.
     -----
     public class Main {
     =====
@@ -203,8 +203,8 @@ Practice Problems (Mixed Code)
     :practice: T
     :autograde: unittest
     
-    Write a function that takes a number ``num`` and returns the number times 3. For example, ``triple(2)`` should return 6 and
-    ``triple(-1)`` should return -3.  Look below the code to check for any compiler errors or the results from the test cases.  Be sure to ``return`` the result.
+    Write a function that takes a number ``num`` and returns the number times 3. For example, ``tripleNum(2)`` should return 6 and
+    ``tripleNum(-1)`` should return -3.  Look below the code to check for any compiler errors or the results from the test cases.  Be sure to ``return`` the result.
     ~~~~
     public class Main {
 
